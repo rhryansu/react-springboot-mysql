@@ -1,4 +1,5 @@
 # Full Stack Application implemented with GitHub CI/CD
+**This repository is the backend side of the project (Springboot)**
 
 ## Tech Stack
 * React.js
